@@ -1,0 +1,79 @@
+{"frames": {
+
+"circle_1.png":
+{
+	"frame": {"x":1,"y":1,"w":165,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":184},
+	"sourceSize": {"w":165,"h":184}
+},
+"circle_2.png":
+{
+	"frame": {"x":168,"y":1,"w":165,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":184},
+	"sourceSize": {"w":165,"h":184}
+},
+"circle_3.png":
+{
+	"frame": {"x":335,"y":1,"w":165,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":184},
+	"sourceSize": {"w":165,"h":184}
+},
+"circle_4.png":
+{
+	"frame": {"x":502,"y":1,"w":165,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":184},
+	"sourceSize": {"w":165,"h":184}
+},
+"circle_5.png":
+{
+	"frame": {"x":669,"y":1,"w":165,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":184},
+	"sourceSize": {"w":165,"h":184}
+},
+"circle_6.png":
+{
+	"frame": {"x":836,"y":1,"w":165,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":184},
+	"sourceSize": {"w":165,"h":184}
+},
+"circle_7.png":
+{
+	"frame": {"x":1003,"y":1,"w":165,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":184},
+	"sourceSize": {"w":165,"h":184}
+},
+"circle_8.png":
+{
+	"frame": {"x":1170,"y":1,"w":165,"h":184},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":184},
+	"sourceSize": {"w":165,"h":184}
+}},
+"animations": {
+	"circle": ["circle_1.png","circle_2.png","circle_3.png","circle_4.png","circle_5.png","circle_6.png","circle_7.png","circle_8.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "circle_atlas_pixi.png",
+	"format": "RGBA8888",
+	"size": {"w":1336,"h":186},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:00f94c33ce95828820c61f30126572ff:c30b75543fb48a80cd4793412ab69ad3:3861bf2c969a5ff0fc4f36ec9e37c191$"
+}
+}
